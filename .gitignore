@@ -1,3 +1,21 @@
+# Environnement virtuel
+venv/
+
+# Secrets
 .env
-pyrightconfig.json
+
+# Base de données locale
 db.sqlite3
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+media/
+
+# IDE
+.vscode/
+.idea/
