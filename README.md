@@ -10,3 +10,5 @@ Membre de l'équipe (IGGLIA 5) et le rôle respectif de chacun:
   * RANDIMBINIRINA RAKOTOMANANA Yusha Andry Ny Aina        n°19 : chargé du développement du pipeline de pré-traitement des textes + déploiement
   * RASOLONJATOVO Zo Heriniaina                            n°23 : chargé de l'entrainement du modèle et les tests  + déploiement
 # Backend-Automatic-Processing-Natural-Language
+
+## Lien vers le dépôt général : https://github.com/HeriniainaRas/Traitement-Automatique-Langage-Naturel/blob/main/README.md
