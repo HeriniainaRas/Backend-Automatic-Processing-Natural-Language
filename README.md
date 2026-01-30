@@ -11,4 +11,4 @@ Membre de l'équipe (IGGLIA 5) et le rôle respectif de chacun:
   * RASOLONJATOVO Zo Heriniaina                            n°23 : chargé de l'entrainement du modèle et les tests  + déploiement
 # Backend-Automatic-Processing-Natural-Language
 
-## Lien vers le dépôt général : https://github.com/HeriniainaRas/Traitement-Automatique-Langage-Naturel/blob/main/README.md
+## Lien vers le dépôt Front-End : https://github.com/HeriniainaRas/Traitement-Automatique-Langage-Naturel/blob/main/README.md
